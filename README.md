@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>My GitHub Page</title>
-</head>
-<body>
-    <h1>Hello, GitHub Pages!</h1>
-    <p>This is my first website hosted on GitHub Pages.</p>
-</body>
-</html>
+Alexis Alfasi
+Bioengineering Student at Rice University
+Intern at Feinstein Institutes for Medical Research
