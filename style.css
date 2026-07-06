@@ -7,7 +7,7 @@ nav {
     justify-content: space-between;
     align-items: center;
     padding: 20px 60px;
-    background-color: cornflowerblue;
+    background: cornflowerblue;
 }
 
 nav h2 {
