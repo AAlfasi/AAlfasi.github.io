@@ -7,9 +7,17 @@ nav {
     justify-content: space-between;
     align-items: center;
     padding: 20px 60px;
-    background: cornflowerblue;
 }
 
 nav h2 {
     margin: 0;
+}
+
+.card{
+    background: whitesmoke;
+    border-radius: 15 px;
+    padding: 25 px;
+    margin: 30 px auto; 
+    width: 80%; 
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
