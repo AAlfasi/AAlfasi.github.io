@@ -1,5 +1,4 @@
 
-
 nav {
     position: sticky;
     display: flex;
@@ -11,15 +10,6 @@ nav {
 
 nav h2 {
     margin: 0;
-}
-
-.card {
-    background: white;
-    border-radius: 15px;
-    padding: 25px;
-    margin: 30px auto; 
-    width: 80%; 
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
 
 body {
@@ -38,6 +28,12 @@ body {
     gap: 25px;
 }
 
+.card {
+    background: white;
+    border-radius: 15px;
+    padding: 25px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
 
 .hero {
     grid-column: 1 / 3;
